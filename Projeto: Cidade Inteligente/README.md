@@ -9,4 +9,4 @@ Brunno Pereira
        
 - Modelo Conceitual (.brM3)
 - Modelo Lógico (.txt)
-- Modelo Físico 
+- Modelo Físico (.sql)
